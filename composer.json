@@ -1,5 +1,5 @@
 {
-    "name": "devocean/infobip-api-php-client",
+    "name": "devoceanlt/infobip-api-php-client",
     "description": "PHP library for consuming Infobip's API",
     "version": "3.0.0",
     "keywords": [
